@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MTCTravelRecomendation</string>
+    <string name="search_help">Введите адрес отеля</string>
+</resources>
